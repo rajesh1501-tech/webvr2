@@ -1,6 +1,7 @@
 {
   "name": "myapp",
   "version": "0.1.0",
+  "homepage": "https://rajesh1501-tech.github.io/webvr2/",
   "private": true,
   "dependencies": {
     "@react-three/drei": "^9.120.4",
